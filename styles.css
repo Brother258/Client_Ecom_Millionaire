@@ -956,17 +956,17 @@ img {
 
   .hero-images .img-left,
   .hero-images .img-right {
-    top: 6.5%;
+    top: 8.5%;
     max-width: clamp(148px, 38vw, 220px);
     opacity: 0.62;
   }
 
   .hero-images .img-left {
-    left: 17%;
+    left: 10%;
   }
 
   .hero-images .img-right {
-    right: 17%;
+    right: 10%;
   }
 
   .hero-images .img-center {
