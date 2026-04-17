@@ -956,7 +956,7 @@ img {
 
   .hero-images .img-left,
   .hero-images .img-right {
-    top: 25%;
+    top: 6.5%;
     max-width: clamp(148px, 38vw, 220px);
     opacity: 0.62;
   }
